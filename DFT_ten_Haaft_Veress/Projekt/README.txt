@@ -1,10 +1,10 @@
 Für Windows:
 --------------------------------------------
-2.        Quellcode
+2. Quellcode
 --------------------------------------------
 -In main.cpp und THDQuantities.cpp sind alle Methoden enthalten
 -"THDQuantities.h" ist die Header Datei von "THDQuantities.cpp" . Dort stehen einige
-Beschreibungen zu den Methoden 
+Kommentare zu den Methoden 
 -"plotting.py" enthält den Python-Skript zur Generierung unserer Plots
 
 ------------------------------------------------
@@ -20,7 +20,7 @@ Beschreibungen zu den Methoden
 -es werden 2 verschiedene Files generiert. In einem befinden sich die Dichteprofile im anderen die damit berechnetet Werte
 
 -----------------------------------------------------------
-3. Kompilieren und starten des Code über Visual Studio
+3. Kompilieren und starten des Programmes über Visual Studio
 -----------------------------------------------------------
 -es wird Visual Studio (nicht Visual Studio Code) benötigt
 -Es muss die Datei "Density1DRods_VS.sln" (Projektmappe) in Visual Studio geöffnet werden welches die Datei beim starten automatisch kompiliert
