@@ -5,7 +5,7 @@ Für Windows:
 -In main.cpp und THDQuantities.cpp sind alle Methoden enthalten
 -"THDQuantities.h" ist die Header Datei von "THDQuantities.cpp". Dort stehen einige
 Kommentare zu den Methoden 
--"plotting.py" enthält den Python-Skript zur Generierung unserer Plots (funktioniert aber nicht ohne die entsprechenden Daten)
+-"plotting.py" enthält den Python-Skript zur Generierung unserer Plots im Protokoll
 
 ------------------------------------------------
 1. Starten einer Simulation ohne Kompilierung
